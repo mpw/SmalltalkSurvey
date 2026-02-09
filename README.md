@@ -36,6 +36,7 @@ Taken from [a draft Smalltalk history at Simberon](http://simberon.blogspot.com/
 
 | year | name and version    | type     | authors                       | license    | description |
 |------|---------------------|----------|-------------------------------|------------|-------------|
+| 2026 | Harding Smalltalk   | system   | Göran Krampe                  | [open](https://github.com/gokr/harding) | begining of a modern Smalltalk |
 | 2022 | PigeonTalk          | system   | David Buck                    |            | block based, like Scratch  |
 | 2022 | Smalltalk-80-CompilerLib | compiler | Mark Bush                | [open](https://github.com/markbush/Smalltalk-80-CompilerLib) | Smalltalk compiler in Swift |
 | 2021 | zigSelf             | system   | sin-ack                       | [open](https://github.com/sin-ack/zigself) | Self in Zig|
